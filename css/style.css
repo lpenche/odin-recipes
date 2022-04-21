@@ -1,0 +1,28 @@
+#background {
+    background-color: brown;
+    width: 50%;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#header {
+    color: white;
+    font-family: Tahoma, sans-serif;
+    text-align: center;
+} 
+
+.homelist {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: left;
+}
+
+img {
+    width: 250px;
+    height: auto;
+}
+
+.text {
+    text-align: justify;
+}
+    
